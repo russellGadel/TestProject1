@@ -5185,7 +5185,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1318
+  m_Name: pb_Mesh-1316
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -11062,7 +11062,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2167814003985104638, guid: 4f264c0a9ad700243a44e15bf78594b8, type: 3}
       propertyPath: m_SelectedVertices.Array.size
-      value: 1
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 2167814003985104639, guid: 4f264c0a9ad700243a44e15bf78594b8, type: 3}
       propertyPath: m_RootOrder
